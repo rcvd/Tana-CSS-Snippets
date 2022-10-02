@@ -1,5 +1,5 @@
 #  Custom Formats
-This CSS snippets adds new tags for quotes and headings. The tags are faded when not hovered to not disturb the experience.
+This CSS snippet adds new tags for quotes and headings. The tags are faded when not hovered to not disturb the experience.
 
 ![Tags for quotes and headings](custom-formats.png)
 
