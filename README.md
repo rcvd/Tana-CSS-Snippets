@@ -1,6 +1,10 @@
 # Tana-CSS-Snippets
 A repository with useful CSS snippets improving Tana's already awesome UI.
 
+- Custom Formats: Adding tags for h1-h3 headings and quotes
+- Main Width Limit: Limiting the main content widht to 800px to improve the readability
+- Tag Colors (Dark Mode): Custom tag colors for dark mode
+
 ## If you want to support my work
 - [Become a GitHub Sponsor](https://github.com/sponsors/rcvd)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/rcvdio)
