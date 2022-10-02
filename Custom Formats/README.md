@@ -3,4 +3,4 @@ This CSS snippets adds new tags for quotes and headings. The tags are faded when
 
 ![Tags for quotes and headings](custom-formats.png)
 
-Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/205054d4ec4cfcbfacb643632c63109ff83e18b5/Tag%20Colors%20(Dark%20Mode)/tag-colors-darkmode.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
+Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/d76806b4d3f4674482da29150a19e3624429bede/Custom%20Formats/custom-formats.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
