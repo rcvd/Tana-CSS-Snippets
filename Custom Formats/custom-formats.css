@@ -1,0 +1,30 @@
+div[data-tag-name=".quote"] .listContentItem {
+    border-left: 2px solid var(--colorEditorText);
+    padding-left: 8px;
+    font-style: italic;
+}
+
+div[data-tag-name=".h1"] .listContentItem {
+    font-size: calc(1.2rem * 1.25 * 1.25);
+    font-weight: 700;
+}
+
+div[data-tag-name=".h2"] .listContentItem {
+    font-size: calc(1.2rem * 1.25);
+    font-weight: 600;
+}
+
+div[data-tag-name=".h3"] .listContentItem {
+    font-size: calc(1.2rem);
+    font-weight: 600;
+}
+
+span[data-tag='.quote'],
+span[data-tag*='.h'] {
+    opacity: 0.2;
+}
+
+span[data-tag='.quote']:hover,
+span[data-tag*='.h']:hover {
+    opacity: 1;
+}
