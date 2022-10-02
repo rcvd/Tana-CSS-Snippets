@@ -1,0 +1,71 @@
+/* Pink Tags */
+span[style="--templateColorDimmed:#fbe9f2; --templateColor:#ee0085;"] {
+    --templateColor: #fbe9f2 !important;
+    --templateColorDimmed: #ee0085 !important;
+}
+
+/* Red Tags */
+span[style="--templateColorDimmed:#f8eaec; --templateColor:#d83853;"] {
+    --templateColor: #f8eaec !important;
+    --templateColorDimmed: #d83853 !important;
+}
+
+/* Orange Tags */
+span[style="--templateColorDimmed:#ffebd0; --templateColor:#b85d00;"] {
+    --templateColor: #ffebd0 !important;
+    --templateColorDimmed: #b85d00 !important;
+}
+
+/* Brown Tags */
+span[style="--templateColorDimmed:#f8ecd7; --templateColor:#a96600;"] {
+    --templateColor: #f8ecd7 !important;
+    --templateColorDimmed: #a96600 !important;
+}
+
+/* Yellow Tags */
+span[style="--templateColorDimmed:#f5efc4; --templateColor:#887500;"] {
+    --templateColor: #f5efc4 !important;
+    --templateColorDimmed: #887500 !important;
+}
+
+/* Green Tags */
+span[style="--templateColorDimmed:#ecf0d4; --templateColor:#667f00;"] {
+    --templateColor: #ecf0d4 !important;
+    --templateColorDimmed: #667f00 !important;
+}
+
+/* Turquoise Tags */
+span[style="--templateColorDimmed:#d7f4eb; --templateColor:#008b59;"] {
+    --templateColor: #d7f4eb !important;
+    --templateColorDimmed: #008b59 !important;
+}
+
+/* Steel Blue Tags */
+span[style="--templateColorDimmed:#e6eef7; --templateColor:#007bda;"] {
+    --templateColor: #e6eef7 !important;
+    --templateColorDimmed: #007bda !important;
+}
+
+/* Blue Tags */
+span[style="--templateColorDimmed:#e3eeff; --templateColor:#006bff;"] {
+    --templateColor: #e3eeff !important;
+    --templateColorDimmed: #006bff !important;
+}
+
+/* Purple Tags */
+span[style="--templateColorDimmed:#f0ebf8; --templateColor:#8b59e1;"] {
+    --templateColor: #fbe9f2 !important;
+    --templateColorDimmed: #8b59e1 !important;
+}
+
+/* Violet Tags */
+span[style="--templateColorDimmed:#f4ebf6; --templateColor:#b048c6;"] {
+    --templateColor: #f4ebf6 !important;
+    --templateColorDimmed: #b048c6 !important;
+}
+
+/* Rose Tags */
+span[style="--templateColorDimmed:#fee7f9; --templateColor:#d514b4;"] {
+    --templateColor: #fee7f9 !important;
+    --templateColorDimmed: #d514b4 !important;
+}
