@@ -1,0 +1,163 @@
+div[data-tag-name=".hp"]>.contentSide>.contentLine,
+div[data-tag-name=".pink"]>.contentSide>.contentLine {
+    background-color: #fbe9f2;
+}
+
+div[data-tag-name=".hr"]>.contentSide>.contentLine,
+div[data-tag-name=".red"]>.contentSide>.contentLine {
+    background-color: #f8eaec;
+}
+
+div[data-tag-name=".ho"]>.contentSide>.contentLine,
+div[data-tag-name=".orange"]>.contentSide>.contentLine {
+    background-color: #ffebd0;
+}
+
+div[data-tag-name=".hbr"]>.contentSide>.contentLine,
+div[data-tag-name=".brown"]>.contentSide>.contentLine {
+    background-color: #f8ecd7;
+}
+
+div[data-tag-name=".hy"]>.contentSide>.contentLine,
+div[data-tag-name=".yellow"]>.contentSide>.contentLine {
+    background-color: #f5efc4;
+}
+
+div[data-tag-name=".hg"]>.contentSide>.contentLine,
+div[data-tag-name=".green"]>.contentSide>.contentLine {
+    background-color: #ecf0d4;
+}
+
+div[data-tag-name=".ht"]>.contentSide>.contentLine,
+div[data-tag-name=".turqoise"]>.contentSide>.contentLine {
+    background-color: #d7f4eb;
+}
+
+div[data-tag-name=".hs"]>.contentSide>.contentLine,
+div[data-tag-name=".steelblue"]>.contentSide>.contentLine {
+    background-color: #e6eef7;
+}
+
+div[data-tag-name=".hb"]>.contentSide>.contentLine,
+div[data-tag-name=".blue"]>.contentSide>.contentLine {
+    background-color: #e3eeff;
+}
+
+div[data-tag-name=".hpu"]>.contentSide>.contentLine,
+div[data-tag-name=".purple"]>.contentSide>.contentLine {
+    background-color: #fbe9f2;
+}
+
+div[data-tag-name=".hv"]>.contentSide>.contentLine,
+div[data-tag-name=".violet"]>.contentSide>.contentLine {
+    background-color: #f4ebf6;
+}
+
+div[data-tag-name=".hro"]>.contentSide>.contentLine,
+div[data-tag-name=".rose"]>.contentSide>.contentLine {
+    background-color: #fee7f9;
+}
+
+span[data-tag='.pink'],
+span[data-tag='.red'],
+span[data-tag='.orange'],
+span[data-tag='.brown'],
+span[data-tag='.yellow'],
+span[data-tag='.green'],
+span[data-tag='.turquoise'],
+span[data-tag='.steelblue'],
+span[data-tag='.blue'],
+span[data-tag='.purple'],
+span[data-tag='.violet'],
+span[data-tag='.rose'],
+span[data-tag*='.h'] {
+    opacity: 0.2;
+}
+
+span[data-tag='.pink']:hover,
+span[data-tag='.red']:hover,
+span[data-tag='.orange']:hover,
+span[data-tag='.brown']:hover,
+span[data-tag='.yellow']:hover,
+span[data-tag='.green']:hover,
+span[data-tag='.turquoise']:hover,
+span[data-tag='.steelblue']:hover,
+span[data-tag='.blue']:hover,
+span[data-tag='.purple']:hover,
+span[data-tag='.violet']:hover,
+span[data-tag='.rose']:hover,
+span[data-tag*='.h']:hover {
+    opacity: 1;
+}
+
+html.isDarkMode div[data-tag-name=".hp"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".pink"]>.contentSide>.contentLine {
+    background-color: #ee0085;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".hr"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".red"]>.contentSide>.contentLine {
+    background-color: #d83853;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".ho"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".orange"]>.contentSide>.contentLine {
+    background-color: #b85d00;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".hbr"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".brown"]>.contentSide>.contentLine {
+    background-color: #a96600;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".hy"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".yellow"]>.contentSide>.contentLine {
+    background-color: #887500;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".hg"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".green"]>.contentSide>.contentLine {
+    background-color: #667f00;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".ht"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".turqoise"]>.contentSide>.contentLine {
+    background-color: #008b59;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".hs"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".steelblue"]>.contentSide>.contentLine {
+    background-color: #007bda;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".hb"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".blue"]>.contentSide>.contentLine {
+    background-color: #006bff;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".hpu"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".purple"]>.contentSide>.contentLine {
+    background-color: #8b59e1;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".hv"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".violet"]>.contentSide>.contentLine {
+    background-color: #b048c6;
+    color: white;
+}
+
+html.isDarkMode div[data-tag-name=".hro"]>.contentSide>.contentLine,
+html.isDarkMode div[data-tag-name=".rose"]>.contentSide>.contentLine {
+    background-color: #d514b4;
+    color: white;
+}
