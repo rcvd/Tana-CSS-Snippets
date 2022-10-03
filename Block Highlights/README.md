@@ -18,4 +18,4 @@ This CSS snippet adds new tags for block highlights supporting light and dark mo
 ![Block Highlights in Dark Mode](dark.png)
 
 
-Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/d76806b4d3f4674482da29150a19e3624429bede/Custom%20Formats/custom-formats.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
+Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/afbaf17a2c86512ebe4cd5b3163c0de90439b0fa/Block%20Highlights/highlights.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
