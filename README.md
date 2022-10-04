@@ -2,8 +2,10 @@
 A repository with useful CSS snippets improving Tana's already awesome UI.
 
 - Block Highlights: Tags for block highlights in various colors
+- Bullet Threading: Highlights the path to the current focused bullet
 - Custom Formats: Tags for h1-h3 headings and quotes
-- Main Width Limit: Limiting the main content widht to 800px to improve the readability
+- Hide Topbar: Hides the topbar (handle with care)
+- Main Width Limit: Limiting the main content width to 800px to improve the readability
 - Tag Colors (Dark Mode): Custom tag colors for dark mode
 
 ## If you want to support my work
