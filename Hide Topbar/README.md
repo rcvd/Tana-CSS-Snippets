@@ -5,4 +5,4 @@ This CSS snippets hides the topbar, please make sure you know all relevant keybo
 
 ![Limited content width](show.png)
 
-Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/8dda4bb059bb846ee6b7a36edea2f80af8e68194/Main%20Width%20Limit/main-width-limit.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
+Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/9c0459b1d15e652199218f23375c4c8165658c93/Hide%20Topbar/hide-topbar.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
