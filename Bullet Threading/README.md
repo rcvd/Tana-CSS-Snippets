@@ -3,4 +3,4 @@ This CSS snippet highlights the path to the focused bullet.
 
 ![Original content width](bullet.gif)
 
-Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/8dda4bb059bb846ee6b7a36edea2f80af8e68194/Main%20Width%20Limit/main-width-limit.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
+Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/484edbcd8456af410cdcb590771458330d826a39/Bullet%20Threading/bullet-threading.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
