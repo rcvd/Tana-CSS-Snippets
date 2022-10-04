@@ -1,0 +1,11 @@
+div.bulletAndContent:has(div.bulletAndContent.isFocused)>div>button.bullet:after {
+    background-color: red;
+}
+
+div.bulletAndContent:has(div.bulletAndContent.isFocused)>.bulletSide.bulletSideExpanded:after {
+    background-color: red;
+}
+
+div.bulletAndContent.isFocused>div>button.bullet:after {
+    background-color: red;
+}
