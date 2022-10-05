@@ -3,4 +3,4 @@ This CSS snippets limits the main content width to 800px to increase the readabi
 
 ![Original content width](strikethrough.png)
 
-Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/8dda4bb059bb846ee6b7a36edea2f80af8e68194/Main%20Width%20Limit/main-width-limit.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
+Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/7a9b0fdc3822258637703f948b970cf78a073c2b/Strikethrough%20Done/striketrough.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
