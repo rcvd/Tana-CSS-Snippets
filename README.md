@@ -6,6 +6,7 @@ A repository with useful CSS snippets improving Tana's already awesome UI.
 - Custom Formats: Tags for h1-h3 headings and quotes
 - Hide Topbar: Hides the topbar (handle with care)
 - Main Width Limit: Limiting the main content width to 800px to improve the readability
+- Strikethrough Done: Strikes a todo once you finished it
 - Tag Colors (Dark Mode): Custom tag colors for dark mode
 
 ## If you want to support my work
