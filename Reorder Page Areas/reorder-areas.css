@@ -1,14 +1,16 @@
-/* Rererences */
-.RelatedContent_el__VPLFU {
+/* References */
+:has(h1 span[data-tag="day"]) .RelatedContent_el__VPLFU {
     order: 1;
+    margin-top: 0;
+    margin-bottom: 2rem;
 }
 
 /* Content */
-.panelContent {
+:has(h1 span[data-tag="day"]) .panelContent {
     order: 2;
 }
 
 /* Fields */
-.AssociatedData_el__Z-I-d {
+:has(h1 span[data-tag="day"]) .AssociatedData_el__Z-I-d {
     order: 3;
 }
