@@ -3,4 +3,4 @@ This CSS snippets allows reordering the different elemens of a page (fields, con
 
 ![Original content width](reorder.png)
 
-Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/8dda4bb059bb846ee6b7a36edea2f80af8e68194/Main%20Width%20Limit/main-width-limit.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
+Just add [this snippet](https://github.com/rcvd/Tana-CSS-Snippets/blob/a2747a4eca8c2b68ea6429ade955dfbd924c0f96/Reorder%20Page%20Areas/reorder-areas.css) using a browser plugin like stylus (Firefox or Chrome) or cascadea (Safari).
