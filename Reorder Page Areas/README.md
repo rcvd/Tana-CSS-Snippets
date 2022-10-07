@@ -1,5 +1,5 @@
 #  Reorder Page Areas
-This CSS snippet allows reordering the different elemens of a page (fields, content, references). This allows putting the references first, for example.
+This CSS snippet allows reordering the different elements (fields, content, references) of the daily notes page (tagged with #day). This allows putting the references first, for example.
 
 ![Reorderd areas showing references first](reorder.png)
 
