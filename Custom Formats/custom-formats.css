@@ -4,17 +4,17 @@ div[data-tag-name=".quote"] > .contentSide {
 	font-style: italic;
 }
 
-div[data-tag-name=".h1"] > .contentSide > .contentLine .listContentItem {
+div[data-tag-name=".h1"] > .contentSide > div > .contentLine {
 	font-size: calc(1.2rem * 1.25 * 1.25);
 	font-weight: 700;
 }
 
-div[data-tag-name=".h2"] > .contentSide > .contentLine {
+div[data-tag-name=".h2"] > .contentSide > div > .contentLine {
 	font-size: calc(1.2rem * 1.25);
 	font-weight: 600;
 }
 
-div[data-tag-name=".h3"] > .contentSide > .contentLine {
+div[data-tag-name=".h3"] > .contentSide > div > .contentLine {
 	font-size: calc(1.2rem);
 	font-weight: 600;
 }
