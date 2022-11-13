@@ -1,11 +1,11 @@
-div.bulletAndContent:has(div.bulletAndContent.isFocused)>div>button.bullet:after {
+div.bulletAndContent:has(div.bulletAndContent:focus-within)>div>button.bullet:after {
     background-color: red;
 }
 
-div.bulletAndContent:has(div.bulletAndContent.isFocused)>.bulletSide.bulletSideExpanded:after {
+div.bulletAndContent:has(div.bulletAndContent:focus-within)>.bulletSide.bulletSideExpanded:after {
     background-color: red;
 }
 
-div.bulletAndContent.isFocused>div>button.bullet:after {
+div.bulletAndContent:focus-within>div>button.bullet:after {
     background-color: red;
 }
