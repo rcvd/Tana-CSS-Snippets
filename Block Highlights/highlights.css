@@ -1,60 +1,60 @@
-div[data-tag-name=".hp"] > .contentSide > div > .contentLine,
-div[data-tag-name=".pink"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".hp"]),
+.contentLine:has(span[data-tag=".pink"]) {
     background-color: #fbe9f2;
 }
 
-div[data-tag-name=".hr"] > .contentSide > div > .contentLine,
-div[data-tag-name=".red"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".hr"]),
+.contentLine:has(span[data-tag=".red"]) {
     background-color: #f8eaec;
 }
 
-div[data-tag-name=".ho"] > .contentSide > div > .contentLine,
-div[data-tag-name=".orange"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".ho"]),
+.contentLine:has(span[data-tag=".orange"]) {
     background-color: #ffebd0;
 }
 
-div[data-tag-name=".hbr"] > .contentSide > div > .contentLine,
-div[data-tag-name=".brown"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".hbr"]),
+.contentLine:has(span[data-tag=".brown"]) {
     background-color: #f8ecd7;
 }
 
-div[data-tag-name=".hy"] > .contentSide > div > .contentLine,
-div[data-tag-name=".yellow"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".hy"]),
+.contentLine:has(span[data-tag=".yellow"]) {
     background-color: #f5efc4;
 }
 
-div[data-tag-name=".hg"] > .contentSide > div > .contentLine,
-div[data-tag-name=".green"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".hg"]),
+.contentLine:has(span[data-tag=".green"]) {
     background-color: #ecf0d4;
 }
 
-div[data-tag-name=".ht"] > .contentSide > div > .contentLine,
-div[data-tag-name=".turqoise"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".ht"]),
+.contentLine:has(span[data-tag=".turqoise"]) {
     background-color: #d7f4eb;
 }
 
-div[data-tag-name=".hs"] > .contentSide > div > .contentLine,
-div[data-tag-name=".steelblue"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".hs"]),
+.contentLine:has(span[data-tag=".steelblue"]) {
     background-color: #e6eef7;
 }
 
-div[data-tag-name=".hb"] > .contentSide > div > .contentLine,
-div[data-tag-name=".blue"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".hb"]),
+.contentLine:has(span[data-tag=".blue"]) {
     background-color: #e3eeff;
 }
 
-div[data-tag-name=".hpu"] > .contentSide > div > .contentLine,
-div[data-tag-name=".purple"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".hpu"]),
+.contentLine:has(span[data-tag=".purple"]) {
     background-color: #fbe9f2;
 }
 
-div[data-tag-name=".hv"] > .contentSide > div > .contentLine,
-div[data-tag-name=".violet"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".hv"]),
+.contentLine:has(span[data-tag=".violet"]) {
     background-color: #f4ebf6;
 }
 
-div[data-tag-name=".hro"] > .contentSide > div > .contentLine,
-div[data-tag-name=".rose"] > .contentSide > div > .contentLine {
+.contentLine:has(span[data-tag=".hro"]),
+.contentLine:has(span[data-tag=".rose"]) {
     background-color: #fee7f9;
 }
 
@@ -90,74 +90,74 @@ span[data-tag*='.h']:hover {
     opacity: 1;
 }
 
-html.isDarkMode div[data-tag-name=".hp"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".pink"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".hp"]),
+html.isDarkMode .contentLine:has(span[data-tag=".pink"]) {
     background-color: #ee0085;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".hr"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".red"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".hr"]),
+html.isDarkMode .contentLine:has(span[data-tag=".red"]) {
     background-color: #d83853;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".ho"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".orange"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".ho"]),
+html.isDarkMode .contentLine:has(span[data-tag=".orange"]) {
     background-color: #b85d00;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".hbr"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".brown"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".hbr"]),
+html.isDarkMode .contentLine:has(span[data-tag=".brown"]) {
     background-color: #a96600;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".hy"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".yellow"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".hy"]),
+html.isDarkMode .contentLine:has(span[data-tag=".yellow"]) {
     background-color: #887500;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".hg"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".green"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".hg"]),
+html.isDarkMode .contentLine:has(span[data-tag=".green"]) {
     background-color: #667f00;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".ht"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".turqoise"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".ht"]),
+html.isDarkMode .contentLine:has(span[data-tag=".turqoise"]) {
     background-color: #008b59;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".hs"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".steelblue"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".hs"]),
+html.isDarkMode .contentLine:has(span[data-tag=".steelblue"]) {
     background-color: #007bda;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".hb"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".blue"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".hb"]),
+html.isDarkMode .contentLine:has(span[data-tag=".blue"]) {
     background-color: #006bff;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".hpu"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".purple"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".hpu"]),
+html.isDarkMode .contentLine:has(span[data-tag=".purple"]) {
     background-color: #8b59e1;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".hv"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".violet"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".hv"]),
+html.isDarkMode .contentLine:has(span[data-tag=".violet"]) {
     background-color: #b048c6;
     color: white;
 }
 
-html.isDarkMode div[data-tag-name=".hro"] > .contentSide > div > .contentLine,
-html.isDarkMode div[data-tag-name=".rose"] > .contentSide > div > .contentLine {
+html.isDarkMode .contentLine:has(span[data-tag=".hro"]),
+html.isDarkMode .contentLine:has(span[data-tag=".rose"]) {
     background-color: #d514b4;
     color: white;
 }
